@@ -1,5 +1,5 @@
 # :blue_heart: ERP PROJECT
-<img alt="스크린샷 2024-02-04 오후 6 30 38" src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/9af5e118-eeab-47e1-bb2e-2c0e0865fe20">
+![KakaoTalk_20240205_161816193](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/e646635e-452f-4a16-a867-1c7f280792a1)
 
 > ### 자전거 회사를 주제로 자전거 부품 구매 및 관리, 자전거 생산 및 관리를 할 수있는 ERP프로그램 입니다.
 
@@ -42,79 +42,76 @@
 
 
 # :blue_heart: ERD
-<img width="887" alt="image" src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/0cc15098-a8e9-4d2f-a81d-67b06234db51">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/549b62fc-df61-4b2d-8eea-cc453e668d53)
 
 
 
 # :blue_heart: FLOW CHAR
-<img width="464" alt="image" src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/825cf308-f25e-4808-9fdc-a87f67b58659">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/faad2881-5b62-4c11-ba35-df87bec2a9ba)
 
 
 
 # :blue_heart: 구현 기능
 ### :open_file_folder: 스프링 시큐리티
-<img width="885" alt="image" src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/bf1e1cdb-f62c-4b3a-9027-12ee50b50b56">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/1e1c4d00-6e83-4351-89bc-7fe53e638d47)
 
 #### :point_right: 스프링 시큐리티를 통해 로그인 및 회원가입 구현
 #
 
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/c63cc51b-aed5-4c9b-9f29-2a5a174485e6">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/4b8fb853-aee4-413b-ab3d-810aece35265)
 
 #### :point_right: ADMIN 권한을 가진 사용자만이 사원들의 권한을 부여 가능
 #
 
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/28e6507b-824c-4752-ad1d-a284843a304e">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/fbcd4d9f-33eb-4dc5-a03b-3c2cf21fa660)
 
-#### :point_right: 로그인시 해당 사용자의 부서 및 이름 출력
+#### :point_right: 로그인시 해당 사용자의 부서 및 이름 출력 & 
+#### :point_right: 사용자 부서의 권한만 이용 가능
 #
 
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/9782002c-e47d-4c64-955b-3c5abfb400b3">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/7eea4892-1dfe-454a-a45b-1909c8a07134)
 
 #### :point_right: 인증된 사용자만 나의정보 수정 가능
-#
 
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/3cd5163e-efcd-47ca-b7c8-a27fa2ac5b96">
-
-#### :point_right: 사용자에게 해당 권한이 없으면 접근 제어
 
 ***
 
 ### :open_file_folder: 출하 명세서
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/9c8a3826-a22f-46e5-9f3c-2d46d0bdc12c">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/a01f95cc-ec33-4309-8a55-af4c4089cd10)
 
 #### :point_right: 출하 명세서 리스트
 #
 
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/ac3eab9a-93be-4179-b1e5-aa1da52dfd29">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/31a27968-1444-49f3-920c-a35a148e54d0)
 
 #### :point_right: 출하 명세서 디테일 페이지에서 검수 시작 버튼을 누르면 검수 페이지로 이동
 
 *** 
 
 ### :open_file_folder: 자재 검수
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/c5a91118-08ef-440b-a75b-a26ea81e3dc0">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/962fab1f-cecc-422e-a06f-a64c2b6eb1fb)
 
 #### :point_right: 자재 검수 리스트
 #
 
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/b516ae9f-cd6d-4381-b983-8a549a8216f6">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/eb695753-a556-4ca6-9017-895532e2b3b5)
 
 #### :point_right: 자재 검수 모달창. 반품 / 정품 처리 기능
 #
 
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/f6e2cf6a-4888-45fe-88d8-d1b06532cd4c">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/1fd16451-8ae1-4829-a4a8-f999d7f79632)
 
 #### :point_right: 검수 시 모달창으로 검수 개수 확인 가능
 
 ***
 
 ### :open_file_folder: 거래 명세서
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/3d4e14ae-90ff-4005-a07e-ed10398fd171">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/d3f2f9af-45d5-402e-9b29-1bee95b2a222)
 
 #### :point_right: 거래 명세서 리스트
 #
 
-<img src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/c5145dcd-4175-4150-bf38-48fbae3679cb">
+![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/334797f6-e89f-49b1-978c-de47aca13564)
 
 #### :point_right: 거래 명세서 내역 조회 기능
 
