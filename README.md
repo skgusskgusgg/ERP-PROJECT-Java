@@ -46,7 +46,7 @@
 
 
 
-# :blue_heart: FLOW CHAR
+# :blue_heart: FLOW CHART
 ![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/faad2881-5b62-4c11-ba35-df87bec2a9ba)
 
 
