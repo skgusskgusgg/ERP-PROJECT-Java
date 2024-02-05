@@ -65,7 +65,7 @@
 
 ![image](https://github.com/skgusskgusgg/ERP-PROJECT-Java/assets/92068041/fbcd4d9f-33eb-4dc5-a03b-3c2cf21fa660)
 
-#### :point_right: 로그인시 해당 사용자의 부서 및 이름 출력 & 
+#### :point_right: 로그인시 해당 사용자의 부서 및 이름 출력
 #### :point_right: 사용자 부서의 권한만 이용 가능
 #
 
